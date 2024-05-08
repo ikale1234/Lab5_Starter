@@ -2,6 +2,9 @@
 ## Team Members
 Ishaan Kale
 
+## Page Link
+https://ikale1234.github.io/Lab5_Starter/expose.html
+
 ## Part 3
 
 ### 1. 
